@@ -4,7 +4,7 @@ A webcam posture monitor for Windows. It watches your shoulders and head through
 
 Everything runs on your own computer. No video is saved or sent anywhere.
 
-![Control panel](screenshots/control-panel.png)
+![Control panel](control-panel.png)
 
 ## Features
 
